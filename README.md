@@ -278,6 +278,3 @@ mini-system/
     └── api.php
 ```
 
-## License
-
-MIT License
